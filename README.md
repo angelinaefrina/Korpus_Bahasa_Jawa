@@ -93,7 +93,7 @@ Kolom *[sesuaikan dengan header sebenarnya]*:
 | `UNCLEAR_SPEECH` | Bagian ucapan tidak dapat dipahami |
 | `TRUNCATED` | Ucapan atau kata terputus sebelum selesai |
 
-Pedoman lengkap ada pada laporan
+Pedoman lengkap ada di laporan kelompok.
 ## Quality Control
 
 Setiap file diperiksa untuk kejelasan suara, clipping, tingkat noise, suara orang lain, rekaman terpotong, kesesuaian format, dan kelengkapan metadata.
