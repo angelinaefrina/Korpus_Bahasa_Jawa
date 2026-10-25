@@ -126,4 +126,4 @@ Penjelasan lengkap ada di laporan kelompok.
 
 ## Laporan
 
-Laporan dapat diakses pada: [Laporan Tugas Besar Fase 1 Kelompok 5](https://docs.google.com/document/d/1txR0kapI7Czsq3utA4iFul3BNGCpGzj4kj2OfiXnuwM/edit?usp=drive_link)
+Laporan dapat diakses pada: [Laporan Tugas Besar Fase 1 Kelompok 5](https://drive.google.com/file/d/11ety7hgNbfoToEJ3R2Yp3XA4sSshP1F0/view?usp=drive_link)
