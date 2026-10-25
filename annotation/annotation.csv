@@ -1,5 +1,5 @@
 ﻿File,Start_Time,End_Time,Speaker_ID,Language_Dialect,Topic,Transcription,Event_Label
-S01-T01-20102026.wav,2.495588,8.571323,S01,Jawa,INTRO,"Halo, jenengku Stefan Mattew Susanto, nanging biasane aku diparani Stefan",NONE
+S01-T01-20102026.wav,2.495588,8.571323,S01,Jawa,INTRO,"Halo, jenengku [NAMA], nanging biasane aku diparani [NAMA]",NONE
 S01-T01-20102026.wav,8.571323,12.631863,S01,Jawa,INTRO,"Aku lair ing Bandung, tanggal rong puluh papat Juni.",NONE
 S01-T01-20102026.wav,12.631863,22.626593,S01,Jawa,INTRO,"Saiki aku uga manggon ing Bandung lan kuliah ing Institut Teknologi Bandung, utawa sing luwih dikenal kanthi jeneng ITB.",NONE
 S01-T01-20102026.wav,22.626593,26.540073,S01,Jawa,INTRO,Saiki aku dadi mahasiswa Teknik Informatika.,NONE
@@ -98,8 +98,8 @@ S01-T04-20102026.wav,64.076526,66.760939,S01,Jawa,WORK_EDUCATION,Saiki aku wis m
 S01-T04-20102026.wav,66.760939,74.415014,S01,Jawa,WORK_EDUCATION,Aku isih kudu ngrampungake tugas akhir lan sawetara tugas liyane sing isih ana.,NONE
 S01-T04-20102026.wav,74.778001,81.219767,S01,Jawa,WORK_EDUCATION,Aku bakal terus ngupayakake supaya kabeh bisa rampung kanthi becik lan aku bisa lulus saka ITB.,NONE
 S01-T04-20102026.wav,81.620702,92.730836,S01,Jawa,WORK_EDUCATION,"Miturutku, pengalaman kuliah ing Teknik Informatika dadi pengalaman sing penting, amarga aku wis sinau akeh perkara anyar lan ngadhepi macem-macem tantangan.",NONE
-S02-T01-19102026.wav,0.0,5.02,S02,Jawa,INTRO,"Halo, jenengku Ferdinand Gabe Tua Sinaga.",NONE
-S02-T01-19102026.wav,5.42,11.1,S02,Jawa,INTRO,Biasane wong-wong padha nyeluk aku Gabe utawa Ferdinand.,NONE
+S02-T01-19102026.wav,0.0,5.02,S02,Jawa,INTRO,"Halo, jenengku [NAMA].",NONE
+S02-T01-19102026.wav,5.42,11.1,S02,Jawa,INTRO,Biasane wong-wong padha nyeluk aku [NAMA] utawa [NAMA].,NONE
 S02-T01-19102026.wav,16.42,28.19,S02,Jawa,INTRO,"hmm aku dhewe saka Jakarta, lan saiki manggon ing Asrama Kidang Pananjung, soale saiki lagi kuliah ing ITB.",NONE
 S02-T01-19102026.wav,32.55,38.86,S02,Jawa,INTRO,"Jujur, awale aku ora kepikiran arep kuliah ing ITB.",NONE
 S02-T01-19102026.wav,40.27,49.92,S02,Jawa,INTRO,"Nanging, merga jarene wong-wong jurusan teknik ing ITB kuwi apik, aku dadi nyoba-nyoba daftar wae.",NONE
@@ -165,14 +165,14 @@ S02-T04-19102026.wav,263.49,272.82,S02,Jawa,WORK_EDUCATION,Saiki aku isih nyoba 
 S02-T04-19102026.wav,274.15,285.69,S02,Jawa,WORK_EDUCATION,Aku pengin luwih akeh latihan coding lan nggawe proyek dhewe supaya luwih paham babagan sing wis tak sinaoni.,NONE
 S02-T04-19102026.wav,287.02,296.0,S02,Jawa,WORK_EDUCATION,"Saliyane kuwi, aku uga pengin sinau komunikasi lan kerja bareng karo wong liya,",NONE
 S02-T04-19102026.wav,297.08,304.98,S02,Jawa,WORK_EDUCATION,soale miturutku katrampilan kuwi penting banget nalika wis mlebu ing donya kerja.,NONE
-S03-T01-20102026.wav,1.18,4.99,S03,Jawa Solo,INTRO,Halo jenengku Efrina,NONE
+S03-T01-20102026.wav,1.18,4.99,S03,Jawa Solo,INTRO,Halo jenengku [NAMA],NONE
 S03-T01-20102026.wav,5.31,9.07,S03,Jawa Solo,INTRO,Umurku rong puluh taun,NONE
 S03-T01-20102026.wav,9.16,14,S03,Jawa Solo,INTRO,Sesuk November umurku selikur,NONE
 S03-T01-20102026.wav,15.7,19.71,S03,Jawa Solo,INTRO,Eee aku ket cilik uripe ning Klaten,NONE
 S03-T01-20102026.wav,20.48,25.42,S03,Jawa Solo,INTRO,Eee seko bayi nganti SMA,NONE
 S03-T01-20102026.wav,25.63,30.39,S03,Jawa Solo,INTRO,Bar kui pindah ning Bandung nggo kuliah,NONE
 S03-T01-20102026.wav,32.12,35.61,S03,Jawa Solo,INTRO,Jurusan Teknik Informatika,NONE
-S03-T01-20102026.wav,37.2,43.36,S03,Jawa Solo,INTRO,Aku nduwe adhi siji lanang jenenge Itop,NONE
+S03-T01-20102026.wav,37.2,43.36,S03,Jawa Solo,INTRO,Aku nduwe adhi siji lanang jenenge [NAMA],NONE
 S03-T01-20102026.wav,45.83,58.53,S03,Jawa Solo,INTRO,Eem umure eee rolas taun saiki SMP kelas siji,NONE
 S03-T01-20102026.wav,63.2,66.3,S03,Jawa Solo,INTRO,Teros eee,NONE
 S03-T01-20102026.wav,76.27,81.99,S03,Jawa Solo,INTRO,Ibukku asale Klaten ayahku asale Semarang,NONE
@@ -286,7 +286,7 @@ S03-T04-20102026.wav,145.79,151.83,S03,Jawa Solo,WORK_EDUCATION,Ketoke ra bakal 
 S03-T04-20102026.wav,152.28,162.43,S03,Jawa Solo,WORK_EDUCATION,"Karna jan tenan mung nyusun proposal e marai utek budreg opo meneh nek yo nggawe anu ne tenanan, nggawe skripsine tenanan kan yo",LAUGHTER
 S03-T04-20102026.wav,163.57,167.69,S03,Jawa Solo,WORK_EDUCATION,"Tapi yo ra mudeng lah sesuk, delok wae semester ngarep",NONE
 S03-T04-20102026.wav,168.32,174.44,S03,Jawa Solo,WORK_EDUCATION,"Nek rejekine nggo magang yo magang, nek ora yo wis, ngono",NONE
-S04-T01-17102026.wav,1.70,4.30,S04,Jawa Timuran,INTRO,"Halo, kenalno jenengku Henry.",NONE
+S04-T01-17102026.wav,1.70,4.30,S04,Jawa Timuran,INTRO,"Halo, kenalno jenengku [NAMA].",NONE
 S04-T01-17102026.wav,4.64,9.60,S04,Jawa Timuran,INTRO,Saiki aku lagi kuliah ning Institut Teknologi Bandung.,NONE
 S04-T01-17102026.wav,10.20,18.170,S04,Jawa Timuran,INTRO,"Kegiatanku saben dino yo ora adoh-adoh soko sinau, nggarap tugas, karo kegiatan-kegiatan liyane.",NONE
 S04-T01-17102026.wav,18.60,21.90,S04,Jawa Timuran,INTRO,"Kadang sibuk seh, tapi yo dinikmati ae.",NONE
@@ -375,7 +375,7 @@ S04-T04-17102026.wav,156.20,166.00,S04,Jawa Timuran,WORK_EDUCATION,Kuliah nang I
 S04-T04-17102026.wav,166.50,173.50,S04,Jawa Timuran,WORK_EDUCATION,Biasane tak pilih tugas sing paling cedhek tenggate utowo sing butuh wektu paling suwe.,NONE
 S04-T04-17102026.wav,173.55,180.68,S04,Jawa Timuran,WORK_EDUCATION,"Cara iki ora mesti nggawe kabeh gampang, tapi paling ora aku ngerti opo sing kudu ditindakake luwih dhisik.",NONE
 S05-T01-20102026.wav,0.88,6.06,S05,Jawa Jogja,INTRO,"Sugeng enjing Bapak, Ibu, rencang-rencang sedaya.",NONE
-S05-T01-20102026.wav,6.80,11.84,S05,Jawa Jogja,INTRO,"Jenengku Ahmad Syafiq, biasane aku dipanggil Syafiq lah.",NONE
+S05-T01-20102026.wav,6.80,11.84,S05,Jawa Jogja,INTRO,"Jenengku [NAMA], biasane aku dipanggil [NAMA] lah.",NONE
 S05-T01-20102026.wav,13.70,16.82,S05,Jawa Jogja,INTRO,"Umurku ki saiki wis rong puluh, rong puluh siji?",NONE
 S05-T01-20102026.wav,17.68,20.06,S05,Jawa Jogja,INTRO,Umurku saiki wis rong puluh siji taun.,NONE
 S05-T01-20102026.wav,20.60,26.90,S05,Jawa Jogja,INTRO,"Nah, soale aku kan lahir ki rong ewu lima ya, umurku rong puluh siji saiki.",NONE
@@ -473,7 +473,7 @@ S05-T04-20102026.wav,139.20,142.32,S05,Jawa Jogja,WORK_EDUCATION,Aku ya pengen s
 S05-T04-20102026.wav,142.92,150.66,S05,Jawa Jogja,WORK_EDUCATION,"Soale bidang iki ki owah-owahan cepet, aku kudu terus sinau supaya ora ketinggalan, ngono.",NONE
 S05-T04-20102026.wav,151.12,162.94,S05,Jawa Jogja,WORK_EDUCATION,"Nah, aku percaya lah nek pendidikan lan pengalaman kuwi kudu mlaku bareng, nggak cukup mung pinter ing teori, nanging juga kudu iso nggawe sing nyata.",NONE
 S05-T04-20102026.wav,163.58,170.26,S05,Jawa Jogja,WORK_EDUCATION,"Nah, mugi-mugi aku bisa lanjut berkembang lan migunani kanggo wong liya.",NONE
-S06_T01_20102026.wav,1.49,3.56,S06,Jawa Jogja,INTRO,"Halo konco-konco kabeh, kenalake jenengku Badeng Maulana Lutfi.",NONE
+S06_T01_20102026.wav,1.49,3.56,S06,Jawa Jogja,INTRO,"Halo konco-konco kabeh, kenalake jenengku [NAMA].",NONE
 S06_T01_20102026.wav,3.56,6.68,S06,Jawa Jogja,INTRO,"Umurku rolikur tahun, asalku seko Jogja.",NONE
 S06_T01_20102026.wav,6.68,12.30,S06,Jawa Jogja,INTRO,Aku saiki lagi kuliah ning jurusan Teknik Sipil UGM angkatan rong ewu telulikur.,NONE
 S06_T01_20102026.wav,12.30,15.90,S06,Jawa Jogja,INTRO,"Kuliah lumayan abot, nanging aku seneng tenan karo bidang iki.",NONE
@@ -590,7 +590,7 @@ S06-T04-20102026.wav,240.76,249.32,S06,Jawa Jogja,WORK_EDUCATION,"Oke, mungkin s
 S06-T04-20102026.wav,249.32,257.12,S06,Jawa Jogja,WORK_EDUCATION,"Mugi-mugi kowe kabeh sing ngrungokke iki iso sukses, sehat, dan bermanfaat bagi nusa dan bangsa.",NONE
 S06-T04-20102026.wav,257.12,257.90,S06,Jawa Jogja,WORK_EDUCATION,"Amin, amin, amin.",NONE
 S06-T04-20102026.wav,257.90,261.10,S06,Jawa Jogja,WORK_EDUCATION,Assalamualaikum warahmatullahi wabarakatuh. Matur nuwun.,NONE
-S07-T01-20102026.wav,0.60,7.02,S07,Jawa Jogja,INTRO,Kenalke jenengku Siti Nur Anifah. Umurku patang puluh loro tahun.,NONE
+S07-T01-20102026.wav,0.60,7.02,S07,Jawa Jogja,INTRO,Kenalke jenengku [NAMA]. Umurku patang puluh loro tahun.,NONE
 S07-T01-20102026.wav,7.02,16.78,S07,Jawa Jogja,INTRO,"Omahku ana ing Dusun Candran, RT rolas, RW kosong limo, Sidoarum, Godean, Sleman, Yogyakarta.",NONE
 S07-T01-20102026.wav,16.78,22.38,S07,Jawa Jogja,INTRO,Aku ibu rumah tangga sing nduweni ti-[TRUNCATED] telu anak.,NONE
 S07-T01-20102026.wav,24.08,32.20,S07,Jawa Jogja,INTRO,"Sakliyané dadi ibu rumah tangga, aku ugoa dadi guru PAUD ana ing kelompok bermain Qoriati Akmal.",NONE
@@ -673,7 +673,7 @@ S07-T04-20102026.wav,184.66,201.76,S07,Jawa Jogja,WORK_EDUCATION,"Menurutku, dad
 S07-T04-20102026.wav,203.10,210.36,S07,Jawa Jogja,WORK_EDUCATION,"Mula, aku bakal terus sinau dadi guru sing sabar, kreatif, lan tresna marang bocah-bocah.",NONE
 S07-T04-20102026.wav,212.10,216.08,S07,Jawa Jogja,WORK_EDUCATION,Makaten cerita babagan pakaryanku minangka guru PAUD.,NONE
 S07-T04-20102026.wav,216.08,224.48,S07,Jawa Jogja,WORK_EDUCATION,Muga-muga aku bisa terus menehi manfaat kanggo bocah-bocah lan dadi guru sing bisa dituladani.,NONE
-S08-T01-20102026.wav,0.41,3.99,S08,Jawa Jogja,INTRO,"Kenalke, jenengku Bania",NONE
+S08-T01-20102026.wav,0.41,3.99,S08,Jawa Jogja,INTRO,"Kenalke, jenengku [NAMA]",NONE
 S08-T01-20102026.wav,4.35,8.39,S08,Jawa Jogja,INTRO,Um- umurku sewidak limo taun,NONE
 S08-T01-20102026.wav,9.02,19.14,S08,Jawa Jogja,INTRO,"Omahku ono ing RT rol- Candran, Sidoarum, Godean, Sleman, Jogjakarta",TRUNCATED
 S08-T01-20102026.wav,24.06,34.43,S08,Jawa Jogja,INTRO,Sakben dinane aku dadi- dadi ibu rumah tangga,UNCLEAR SPEECH
@@ -717,9 +717,9 @@ S08-T03-20102026.wav,89.1,95.13,S08,Jawa Jogja,TRAVEL,Mergo aku yaroh karo pikni
 S08-T03-20102026.wav,95.14,102.66,S08,Jawa Jogja,TRAVEL,"Aku sesuk arep piknik meneh sekolah lansia, ono ing Kaliurang",NONE
 S08-T03-20102026.wav,103.34,117.83,S08,Jawa Jogja,TRAVEL,Mugo-mugo aku diparingi sehat terus iso nyambut gawe lan golek duit keno nggo seneng-seneng- nggo melu lungo-lungo yaroh barang tekan piknik,NONE
 S08-T04-20102026.wav,0.23,10.25,S08,Jawa Jogja,WORK_EDUCATION,"Gaweanku sakben ndinane sap- momong bocah telu, bocah telu kuwi isih sekolah SD",NONE
-S08-T04-20102026.wav,10.3,13.15,S08,Jawa Jogja,WORK_EDUCATION,Ruji kelas enem SD,NONE
-S08-T04-20102026.wav,14.45,17.7,S08,Jawa Jogja,WORK_EDUCATION,Sahin kelas telu SD,NONE
-S08-T04-20102026.wav,18.06,20.89,S08,Jawa Jogja,WORK_EDUCATION,Mirja kelas siji SD,UNCLEAR_SPEECH
+S08-T04-20102026.wav,10.3,13.15,S08,Jawa Jogja,WORK_EDUCATION,[NAMA] kelas enem SD,NONE
+S08-T04-20102026.wav,14.45,17.7,S08,Jawa Jogja,WORK_EDUCATION,[NAMA] kelas telu SD,NONE
+S08-T04-20102026.wav,18.06,20.89,S08,Jawa Jogja,WORK_EDUCATION,[NAMA] kelas siji SD,UNCLEAR_SPEECH
 S08-T04-20102026.wav,21.03,24.9,S08,Jawa Jogja,WORK_EDUCATION,Cah-cah kuwi sekolah ono ing Jabal Nur,NONE
 S08-T04-20102026.wav,24.99,28.64,S08,Jawa Jogja,WORK_EDUCATION,"Wayah esuk, aku wes ngrukun neng omahe",UNCLEAR_SPEECH
 S08-T04-20102026.wav,29.23,33.91,S08,Jawa Jogja,WORK_EDUCATION,Nyiapke ugo rampene sekolah karo sarapan,NONE
@@ -740,8 +740,8 @@ S08-T04-20102026.wav,112.13,119.14,S08,Jawa Jogja,WORK_EDUCATION,Tiap margede bo
 S08-T04-20102026.wav,119.68,122.96,S08,Jawa Jogja,WORK_EDUCATION,"Yen setu minggu, aku prei le momo-",TRUNCATED
 S08-T04-20102026.wav,123,125.27,S08,Jawa Jogja,WORK_EDUCATION,Dino kuwi keno tak nggo istiraha-,TRUNCATED
 S08-T04-20102026.wav,125.27,131.2,S08,Jawa Jogja,WORK_EDUCATION,Mugo-mugo aku diparingi sehat iso karo tetep momong karo sepedaan,BACKGROUND_NOISE
-S09-T01-20102026.wav,0,4.7,S09,Jawa Jogja,INTRO,"Kenalake, jenengku Alifah Rahma Nur Hasanah",BACKGROUND_NOISE
-S09-T01-20102026.wav,4.96,8.65,S09,Jawa Jogja,INTRO,Tapi konco-konco biasane njeluk aku Alifah ,BACKGROUND_NOISE
+S09-T01-20102026.wav,0,4.7,S09,Jawa Jogja,INTRO,"Kenalake, jenengku [NAMA]",BACKGROUND_NOISE
+S09-T01-20102026.wav,4.96,8.65,S09,Jawa Jogja,INTRO,Tapi konco-konco biasane njeluk aku [NAMA] ,BACKGROUND_NOISE
 S09-T01-20102026.wav,8.88,14.67,S09,Jawa Jogja,INTRO,Aku laer ning Jogjakarta lan saiki umurku wes mlebu wolulas taun,NONE
 S09-T01-20102026.wav,15.13,20.25,S09,Jawa Jogja,INTRO,"Nek ditekoni omahku ngendi, aku asline wong Sleman, Jogjakarta",NONE
 S09-T01-20102026.wav,20.36,27.55,S09,Jawa Jogja,INTRO,"Nek ngomongke babagan hobi, aku ki seneng banget karo sing jenenge dolan ning alam",BACKGROUND_NOISE
@@ -821,7 +821,7 @@ S09-T04-20102026.wav,105.06,113.75,S09,Jawa Jogja,WORK_EDUCATION,"Tapi yo piye m
 S09-T04-20102026.wav,115.42,123.19,S09,Jawa Jogja,WORK_EDUCATION,"Nek babagan cito-cita, ing masa depan aku pengen banget ngetrapke ilmu sing tak sinau ing UNY",NONE
 S09-T04-20102026.wav,123.77,132.33,S09,Jawa Jogja,WORK_EDUCATION,Iki kanggo nggawe karyo utowo inovasi nyoto ning bidang teknologi pendidikan lan pengembangan software pembelajaran,BACKGROUND_NOISE
 S09-T04-20102026.wav,132.92,144.42,S09,Jawa Jogja,WORK_EDUCATION,"Aku percoyo, pendidikan sing dikemas kanthi kreatif lan nggunakake teknologi sing tepat bakal mbantu akeh uwong supoyo luwih gampang lan seneng pas sinau",NONE
-S10-T01-20102026.wav,1.00,6.12,S10,Jawa Jogja,INTRO,"Halo kanca-kanca kabeh, jenengku Jauza Atifah Hanun lan biasane aku diundang Jauza.",NONE
+S10-T01-20102026.wav,1.00,6.12,S10,Jawa Jogja,INTRO,"Halo kanca-kanca kabeh, jenengku [NAMA] lan biasane aku diundang [NAMA].",NONE
 S10-T01-20102026.wav,7.08,10.06,S10,Jawa Jogja,INTRO,"Aku asale saka Jogja, umurku telu likur taun.",NONE
 S10-T01-20102026.wav,11.04,17.50,S10,Jawa Jogja,INTRO,Saiki aku kuliah ning Fakultas Kedokteran Universitas Sebelas Maret Surakarta lan lagi nglakoni koas.,NONE
 S10-T01-20102026.wav,18.20,23.78,S10,Jawa Jogja,INTRO,"Koas kuwi tahap nalika mahasiswa kedokteran sinau langsung ning rumah sakit, ora mung ning kelas.",NONE
