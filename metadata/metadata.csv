@@ -1,4 +1,4 @@
-﻿File,Speaker,Speaker_Type,Gender,Language/Dialect,Topic,Duration,Environment,Quality
+﻿File,Speaker,Speaker_Type,Gender,Language_Dialect,Topic,Duration,Environment,Quality
 S01-T01-20102026.wav,S01,Non-Native,Male,Jawa,INTRO,138.151,indoor,good
 S01-T02-20102026.wav,S01,Non-Native,Male,Jawa,DAILY,252.914,indoor,good
 S01-T03-20102026.wav,S01,Non-Native,Male,Jawa,TRAVEL,303.694,indoor,good
@@ -7,31 +7,35 @@ S02-T01-19102026.wav,S02,Non-Native,Male,Jawa,INTRO,55.73,indoor,good
 S02-T02-19102026.wav,S02,Non-Native,Male,Jawa,DAILY,251.197,indoor,good
 S02-T03-19102026.wav,S02,Non-Native,Male,Jawa,TRAVEL,143.169,indoor,good
 S02-T04-19102026.wav,S02,Non-Native,Male,Jawa,WORK_EDUCATION,305.958,indoor,good
-S03-T01-20102026.wav,S03,Native,Female,Jawa,INTRO,129.344,indoor,good
-S03-T02-20102026.wav,S03,Native,Female,Jawa,DAILY,264.107,indoor,good
-S03-T03-20102026.wav,S03,Native,Female,Jawa,TRAVEL,329.493,indoor,good
-S03-T04-20102026.wav,S03,Native,Female,Jawa,WORK_EDUCATION,175.061,indoor,good
-S04-T01-17102026.wav,S04,Native,Male,Jawa,INTRO,130.44,indoor,good
-S04-T02-17102026.wav,S04,Native,Male,Jawa,DAILY,142.44,indoor,good
-S04-T03-17102026.wav,S04,Native,Male,Jawa,TRAVEL,174.0,indoor,good
-S04-T04-17102026.wav,S04,Native,Male,Jawa,WORK_EDUCATION,183.0,indoor,good
-S05-T01-20102026.wav,S05,Native,Male,Jawa,INTRO,177.024,indoor,good
-S05-T02-20102026.wav,S05,Native,Male,Jawa,DAILY,196.544,indoor,good
-S05-T03-20102026.wav,S05,Native,Male,Jawa,TRAVEL,164.864,indoor,good
-S05-T04-20102026.wav,S05,Native,Male,Jawa,WORK_EDUCATION,170.923,indoor,good
-S06-T01-20102026.wav,S06,Native,Male,Jawa,INTRO,185.167,indoor,good
-S06-T02-20102026.wav,S06,Native,Male,Jawa,DAILY,146.333,indoor,good
-S06-T03-20102026.wav,S06,Native,Male,Jawa,TRAVEL,171.236,indoor,good
-S06-T04-20102026.wav,S06,Native,Male,Jawa,WORK_EDUCATION,261.729,indoor,good
-S07-T01-20102026.wav,S07,Native,Female,Jawa,INTRO,77.12,indoor,good
-S07-T02-20102026.wav,S07,Native,Female,Jawa,DAILY,230.656,indoor,good
-S07-T03-20102026.wav,S07,Native,Female,Jawa,TRAVEL,210.795,indoor,good
-S07-T04-20102026.wav,S07,Native,Female,Jawa,WORK_EDUCATION,225.28,indoor,good
-S08-T01-20102026.wav,S08,Native,Female,Jawa,INTRO,137.877,indoor,good
-S08-T02-20102026.wav,S08,Native,Female,Jawa,DAILY,88.725,indoor,good
-S08-T03-20102026.wav,S08,Native,Female,Jawa,TRAVEL,118.229,indoor,good
-S08-T04-20102026.wav,S08,Native,Female,Jawa,WORK_EDUCATION,131.2,indoor,good
-S10-T01-20102026.wav,S10,Native,Female,Jawa,INTRO,132.459,indoor,good
-S10-T02-20102026.wav,S10,Native,Female,Jawa,DAILY,184.854,indoor,good
-S10-T03-20102026.wav,S10,Native,Female,Jawa,TRAVEL,78.699,indoor,good
-S10-T04-20102026.wav,S10,Native,Female,Jawa,WORK_EDUCATION,161.643,indoor,good
+S03-T01-20102026.wav,S03,Native,Female,Jawa Solo,INTRO,129.344,indoor,good
+S03-T02-20102026.wav,S03,Native,Female,Jawa Solo,DAILY,264.107,indoor,good
+S03-T03-20102026.wav,S03,Native,Female,Jawa Solo,TRAVEL,329.493,indoor,good
+S03-T04-20102026.wav,S03,Native,Female,Jawa Solo,WORK_EDUCATION,175.061,indoor,good
+S04-T01-17102026.wav,S04,Native,Male,Jawa Timuran,INTRO,130.44,indoor,good
+S04-T02-17102026.wav,S04,Native,Male,Jawa Timuran,DAILY,142.44,indoor,good
+S04-T03-17102026.wav,S04,Native,Male,Jawa Timuran,TRAVEL,174.0,indoor,good
+S04-T04-17102026.wav,S04,Native,Male,Jawa Timuran,WORK_EDUCATION,183.0,indoor,good
+S05-T01-20102026.wav,S05,Native,Male,Jawa Jogja,INTRO,177.024,indoor,good
+S05-T02-20102026.wav,S05,Native,Male,Jawa Jogja,DAILY,196.544,indoor,good
+S05-T03-20102026.wav,S05,Native,Male,Jawa Jogja,TRAVEL,164.864,indoor,good
+S05-T04-20102026.wav,S05,Native,Male,Jawa Jogja,WORK_EDUCATION,170.923,indoor,good
+S06-T01-20102026.wav,S06,Native,Male,Jawa Jogja,INTRO,185.167,indoor,good
+S06-T02-20102026.wav,S06,Native,Male,Jawa Jogja,DAILY,146.333,indoor,good
+S06-T03-20102026.wav,S06,Native,Male,Jawa Jogja,TRAVEL,171.236,indoor,good
+S06-T04-20102026.wav,S06,Native,Male,Jawa Jogja,WORK_EDUCATION,261.729,indoor,good
+S07-T01-20102026.wav,S07,Native,Female,Jawa Jogja,INTRO,77.12,indoor,good
+S07-T02-20102026.wav,S07,Native,Female,Jawa Jogja,DAILY,230.656,indoor,good
+S07-T03-20102026.wav,S07,Native,Female,Jawa Jogja,TRAVEL,210.795,indoor,good
+S07-T04-20102026.wav,S07,Native,Female,Jawa Jogja,WORK_EDUCATION,225.28,indoor,good
+S08-T01-20102026.wav,S08,Native,Female,Jawa Jogja,INTRO,137.877,indoor,good
+S08-T02-20102026.wav,S08,Native,Female,Jawa Jogja,DAILY,88.725,indoor,good
+S08-T03-20102026.wav,S08,Native,Female,Jawa Jogja,TRAVEL,118.229,indoor,good
+S08-T04-20102026.wav,S08,Native,Female,Jawa Jogja,WORK_EDUCATION,131.2,indoor,good
+S09-T01-20102026.wav,S09,Native,Female,Jawa Jogja,INTRO,132.513,indoor,good
+S09-T02-20102026.wav,S09,Native,Female,Jawa Jogja,DAILY,151.554,indoor,good
+S09-T03-20102026.wav,S09,Native,Female,Jawa Jogja,TRAVEL,179.013,indoor,good
+S09-T04-20102026.wav,S09,Native,Female,Jawa Jogja,WORK_EDUCATION,144.833,indoor,good
+S10-T01-20102026.wav,S10,Native,Female,Jawa Jogja,INTRO,132.459,indoor,good
+S10-T02-20102026.wav,S10,Native,Female,Jawa Jogja,DAILY,184.854,indoor,good
+S10-T03-20102026.wav,S10,Native,Female,Jawa Jogja,TRAVEL,78.699,indoor,good
+S10-T04-20102026.wav,S10,Native,Female,Jawa Jogja,WORK_EDUCATION,161.643,indoor,good
