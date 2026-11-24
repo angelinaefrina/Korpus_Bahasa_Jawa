@@ -15,7 +15,7 @@ Kelompok 5:
 
 ## Tujuan
 
-Menyediakan data ujaran spontan Bahasa Jawa beserta transkripsi dan label untuk pelatihan dan pengujian sistem *Automatic Speech Recognition* (ASR) dalam lingkup mata kuliah IF4071.
+Korpus ini menyediakan data ujaran spontan Bahasa Jawa beserta transkripsi dan label untuk pelatihan dan pengujian sistem *Automatic Speech Recognition* (ASR) dalam lingkup mata kuliah IF4071.
 
 ## Ringkasan Korpus
 
@@ -24,9 +24,9 @@ Menyediakan data ujaran spontan Bahasa Jawa beserta transkripsi dan label untuk 
 | Bahasa | Bahasa Jawa (dominan dialek Solo–Yogyakarta; rincian per penutur di `metadata/metadata.csv`) |
 | Penutur | 10 orang (5 laki-laki, 5 perempuan), ID `S01`–`S10` |
 | Jenis ujaran | Monolog spontan berdasarkan pertanyaan pemicu |
-| Topik | 4 topik per penutur: `T01` = [isi], `T02` = [isi], `T03` = [isi], `T04` = [isi] |
+| Topik | 4 topik per penutur: `T01` = perkenalan diri, `T02` = keseharian, `T03` = perjalanan, `T04` = pekerjaan atau pendidikan |
 | Jumlah file | 40 file audio (10 penutur × 4 topik) |
-| Total durasi | [x] menit |
+| Total durasi | 115.5 menit |
 | Format audio | WAV, 16 kHz, 16-bit, mono |
 | Lingkungan | Indoor, direkam mandiri oleh penutur di lokasi masing-masing |
 
@@ -44,7 +44,7 @@ Korpus_Bahasa_Jawa/
 │   └── consent_form/      # Template PSP kosong dan checklist persetujuan per Speaker ID
 └── documentation/
     ├── README.txt
-    └── [dokumentasi QC dan pedoman anotasi]
+    └── dokumentasi QC dan pedoman anotasi]
 ```
 
 ## Penamaan File
@@ -57,8 +57,8 @@ Contoh: `S07_T02_001.wav` = penutur S07, topik T02, file ke-1.
 
 File: `metadata/metadata.csv`
 
-Kolom *[sesuaikan dengan header sebenarnya]*:
-`File`, `Speaker`, `Gender`, `Age`, `Origin`, `Dialect`, `Topic`, `Duration`, `Environment`, `Device`, `Original_Format`, `Quality`
+Kolom:
+`File`, `Speaker`, `Speaker_Type`, `Gender`, `Language_Dialect`, `Topic`, `Duration`, `Environment`, `Quality`
 
 ## Anotasi
 
@@ -66,8 +66,8 @@ File: `annotation/annotation.csv`
 
 Satu baris = satu segmen ujaran. Audio tidak dipotong; batas segmen ditandai dengan timestamp (dalam detik) pada kolom `start` dan `end`.
 
-Kolom *[sesuaikan dengan header sebenarnya]*:
-`file`, `speaker`, `start`, `end`, `transcription`, `dialect`, `topic`, `event`
+Kolom:
+`File`, `Start_Time`, `End_Time`, `Speaker_ID`, `Language_Dialect`, `Topic`, `Transcription`, `Event_Label`
 
 ### Konvensi Transkripsi
 
@@ -78,7 +78,7 @@ Kolom *[sesuaikan dengan header sebenarnya]*:
 - Penanda dalam teks:
   - `[UNCLEAR]` untuk ucapan tidak jelas
   - `[TRUNCATED]` untuk ucapan terpotong
-  - `[NAMA]` untuk nama penutur
+  - `NAMA]` untuk nama penutur
 
 ### Tag Peristiwa
 
@@ -100,9 +100,9 @@ Setiap file diperiksa untuk kejelasan suara, clipping, tingkat noise, suara oran
 
 | Label | Jumlah file |
 |---|---|
-| Good | [x] |
-| Acceptable | [x] |
-| Reject (direkam ulang) | [x] |
+| Good | 10 |
+| Acceptable | - |
+| Reject (direkam ulang) | - |
 
 Rincian: documentation/QC.md
 
@@ -126,4 +126,4 @@ Penjelasan lengkap ada di laporan kelompok.
 
 ## Laporan
 
-Laporan dapat diakses pada: [Laporan Tugas Besar Fase 1 Kelompok 5](https://drive.google.com/file/d/11ety7hgNbfoToEJ3R2Yp3XA4sSshP1F0/view?usp=drive_link)
+Laporan dapat diakses pada: Laporan Tugas Besar Fase 1 Kelompok 5](https://drive.google.com/file/d/11ety7hgNbfoToEJ3R2Yp3XA4sSshP1F0/view?usp=drive_link)
